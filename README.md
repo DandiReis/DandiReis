@@ -16,7 +16,5 @@ Apaixonado por transformar dados brutos em inteligência estratégica e por ente
 - **Bancos de Dados:** MySQL, MongoDB
 - **Frameworks & Ferramentas:** Spring Boot, Git, GitHub
 
-🌱 **Atualmente focando em:** Aprofundar arquiteturas de dados escaláveis para o mercado financeiro e desenvolvimento back-end robusto.
-
 📫 **Como me encontrar:**
 - [LinkedIn](https://www.linkedin.com/in/dandi-reis-0851b0332)
