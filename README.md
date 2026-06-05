@@ -19,5 +19,4 @@ Apaixonado por transformar dados brutos em inteligência estratégica e por ente
 🌱 **Atualmente focando em:** Aprofundar arquiteturas de dados escaláveis para o mercado financeiro e desenvolvimento back-end robusto.
 
 📫 **Como me encontrar:**
-- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
-- E-mail: (SEU_EMAIL_AQUI)
+- [LinkedIn](inkedin.com/in/dandi-reis-0851b0332/)
