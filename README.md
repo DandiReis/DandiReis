@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Sou o Dandi Reis 👋
 
-<!--
-**DandiReis/DandiReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Ciência da Computação | Foco em Engenharia de Dados & Back-end
 
-Here are some ideas to get you started:
+Apaixonado por transformar dados brutos em inteligência estratégica e por entender como a infraestrutura de sistemas sustenta grandes operações. Busco sempre unir tecnologia pesada com **visão de negócios**, garantindo que a informação gere impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **O que eu faço:**
+- ⚙️ **Engenharia de Dados:** Estruturação de pipelines (ETL), processamento de grandes volumes de dados e modelagem.
+- 📊 **Análise & Visualização:** Criação de dashboards interativos para tomada de decisão.
+- 🧱 **Arquitetura Back-end:** Construção de APIs e manipulação de bancos híbridos (Relacionais e NoSQL).
+- 🧠 **Resolução de Problemas:** Foco em eficiência operacional e escalabilidade.
+
+🛠️ **Minha Caixa de Ferramentas:**
+- **Linguagens:** Python, SQL, Java, C
+- **Dados & Visualização:** Pandas, Streamlit, Processos ETL
+- **Bancos de Dados:** MySQL, MongoDB
+- **Frameworks & Ferramentas:** Spring Boot, Git, GitHub
+
+🌱 **Atualmente focando em:** Aprofundar arquiteturas de dados escaláveis para o mercado financeiro e desenvolvimento back-end robusto.
+
+📫 **Como me encontrar:**
+- [LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
+- E-mail: (SEU_EMAIL_AQUI)
